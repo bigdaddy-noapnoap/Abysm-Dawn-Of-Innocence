@@ -197,4 +197,4 @@ This repository serves as the official landing page for Abysm: Dawn of Innocence
 **Get the most recent version of Abysm: Dawn of Innocence today!**
 
 ---
-**Last updated:** 2026-11-13 18:14:02 UTC
+**Last updated:** 2026-11-13 23:58:59 UTC
